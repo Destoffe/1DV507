@@ -1,5 +1,5 @@
 package cw222ng_assign4.time;
-
+ 
 public class Exercise2 {
 	
 	static int tempSum[] = new int[2];

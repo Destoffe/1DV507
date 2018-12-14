@@ -1,5 +1,5 @@
 package cw222ng_assign1.Exercise2;
-
+  
 public class Lorry extends Vehicle {
 
 	public Lorry(int p){

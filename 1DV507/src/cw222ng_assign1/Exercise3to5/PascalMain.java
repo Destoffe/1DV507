@@ -1,5 +1,5 @@
 package cw222ng_assign1.Exercise3to5;
-
+  
 /*
  * Exercise 3by Christoffer Wahlman
  * 2018-01-25

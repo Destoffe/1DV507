@@ -1,6 +1,6 @@
 
 /* Exercise 2-3 Report
-
+ 
 1.For exercise 2 i'm doing the same thing with the long and the short text except i'm just using a single character and a
 string generated with 80 characters. At the start of the program i put the current time in a variable.
 I then have a while-loop that tells the program to keep repeat concatenations to my String and StringBuilder until it has gone one second.

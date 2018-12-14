@@ -1,5 +1,5 @@
 package cw222ng_assign3;
-
+ 
 public class NorseGod {
 	private String name;
 	private String race;

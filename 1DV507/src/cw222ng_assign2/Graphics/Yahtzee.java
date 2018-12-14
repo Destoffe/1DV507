@@ -1,6 +1,6 @@
 package cw222ng_assign2.Graphics;
 
-
+ 
 import java.io.FileInputStream; 
 import java.io.FileNotFoundException;
 import java.util.Arrays;

@@ -1,5 +1,5 @@
 package cw222ng_assign4;
-
+ 
 import java.util.Iterator;
 
 public interface Queue<T> {

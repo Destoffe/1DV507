@@ -1,7 +1,7 @@
 /*
  * AbstractIntCollection.java
  * Date: 23 nov 2007
- * Author: Jonas Lundberg
+ * Author: Jonas Lundberg 
  */
 package cw222ng_assign1.Exercise1;
 

@@ -1,6 +1,6 @@
 package cw222ng_assign1.Exercise2;
 import java.util.Iterator;
-
+  
 public interface Ferry {
 	
 	   int countPassengers();             // Number of passengers on board

@@ -4,7 +4,7 @@ package cw222ng_assign2.Queues;
  * @author Christoffer Wahlman
  */
 import java.util.Iterator;
-
+ 
 public interface Queue {  
 		/**
 		 * This returns the size of the Queue.

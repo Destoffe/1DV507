@@ -1,5 +1,5 @@
 package cw222ng_assign2.Graphics;
-
+ 
 public class SumMain {
 
 	public static void main(String[] args) {

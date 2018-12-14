@@ -11,7 +11,7 @@ import java.util.HashSet;
 import java.util.Scanner;
 import java.util.Set;
 import java.util.stream.Stream;
-
+  
 public class WarAndPeace {
 
 	public static void main(String[] args) {

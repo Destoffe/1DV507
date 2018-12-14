@@ -1,5 +1,5 @@
 package cw222ng_assign1.Exercise2;
-
+  
 public class FerryMain {
 
 	public static void main(String[] args) {

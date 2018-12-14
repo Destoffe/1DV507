@@ -1,5 +1,5 @@
 package cw222ng_assign1.Exercise3to5;
-
+  
 public class SumMain {
 
 	public static void main(String[] args) {

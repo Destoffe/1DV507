@@ -1,5 +1,5 @@
 package cw222ng_assign1.Exercise1;
-
+  
 public class CollectionMain {
 
 	public static void main(String[] args) {

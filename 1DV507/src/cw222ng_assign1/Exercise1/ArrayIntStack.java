@@ -2,7 +2,7 @@ package cw222ng_assign1.Exercise1;
 
 
 /*
- * Exercise 1 by Christoffer Wahlman
+ * Exercise 1 by Christoffer Wahlman 
  * 2018-01-25
  * Pretty much the same as ArrayIntList but without all the hard stuff
  */

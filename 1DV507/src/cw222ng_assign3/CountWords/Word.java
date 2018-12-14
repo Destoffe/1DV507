@@ -1,5 +1,5 @@
 package cw222ng_assign3.CountWords;
-
+ 
 public class Word implements Comparable<Word> {
 	   private String word;
 	   
